@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file/qss/style-publish.qss</file>
+        <file>file/qss/style-activitydetail.qss</file>
+        <file>file/qss/style-user.qss</file>
+        <file>file/qss/style-login.qss</file>
+        <file>file/qss/style-frienddetail.qss</file>
+        <file>file/qss/style-social.qss</file>
+    </qresource>
+</RCC>
